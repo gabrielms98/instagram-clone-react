@@ -3,13 +3,15 @@
 - FrontEnd: ReactDOM
 - Backend: Express, MongoDB
 
-## Clonando e instalando a aplicação
+## Clonning the application
 
 To clone the reposiroty:
 ```console
 $ git clone https://github.com/gabrielms98/instagram-clone-react.git
 $ cd instagram-clone-react
 ```
+
+## Running the application
 
 After cloning the repository:
 ```console
